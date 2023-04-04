@@ -1,0 +1,12 @@
+body{
+    background-color: #DAF5FF;
+}
+
+h1, h3{
+    font-weight: bold;
+    color: #413543;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+}
